@@ -1,4 +1,4 @@
-🚀 SkillGap AI
+# 🚀 SkillGap AI
 
 An Agentic AI-powered career readiness platform that bridges learning and employability
 Built for Hackathon | Track: Agentic AI
